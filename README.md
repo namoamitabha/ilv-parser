@@ -1,2 +1,2 @@
 # ilv-parser
-Parse IBM iLog ilv file
+Parse IBM ILOG View File ilv file
